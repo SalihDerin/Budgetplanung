@@ -1,5 +1,6 @@
 # Erste Smartphone-App
-Mein erster Versuch an einer Smartphone-App. Um nicht zwei Versionen entwickeln zu müssen, habe ich mit React Native gestartet.
+Mein erster Versuch an einer Smartphone-App.
+Um nicht zwei Versionen entwickeln zu müssen, habe ich mit React Native gestartet.
 
 # Aktueller Stand
 Das Projekt hat als Demo-App angefangen und von dort aus habe ich ein proof of concept für meine Idee gestartet.
@@ -12,8 +13,9 @@ Es gibt bereits Budget-Management-Apps auf dem Markt, jedoch sind die, die ich p
 Ich will das ganze familienfreundlicher gestalten, bzw. auf meine Bedürfnisse zuschneiden.
 
 # Pläne für die Zukunft
-Ein Umstieg auf Flutter ist in Planung, da es mir geeigneter erscheint und ich mit dem Expo-Tool nicht zufrieden bin.
-Allen voran muss die UI natürlich auch komplett ausgebaut werden. Parallel dazu soll das Backend aufgebaut werden.
+- Umstieg auf Flutter (mit Expo-Tool unzufrieden).
+- UI komplett ausbauen werden.
+- Backend aufbauen.
 
 
 
