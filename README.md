@@ -1,50 +1,17 @@
-# Welcome to your Expo app 👋
+# Erste Smartphone-App
+Mein erster Versuch an einer Smartphone-App. Um nicht zwei Versionen entwickeln zu müssen, habe ich mit React Native gestartet.
+
+# Aktueller Stand
+Ein Umstieg auf Flutter ist in Planung, da es mir geeigneter erscheint und ich mit dem Expo-Tool nicht zufrieden bin.
+Das Projekt hat als Demo-App angefangen und von dort aus habe ich ein proof of concept für meine Idee gestartet.
+Daher ist der aktuelle Code eher chaotisch, was die Struktur angeht.
+
+# Die Idee der App
+Einen Haushalt zu führen, erst recht wenn mehrere Personen involviert sind, kann sehr kompliziert und sehr schnell unübersichtlich werden.
+Um Ausgaben zu tracken, Budgets einzuteilen und deren Einhaltung und daraus folgend eine Maximierung der Ersparnisse zu ermöglichen, habe ich angefangen diese App zu entwickeln.
+Es gibt bereits Budget-Management-Apps auf dem Markt, jedoch sind die, die ich probiert habe viel zu komplex aufgebaut und glichen eher einer Börsen-App aus meiner Sicht.
+Ich will das ganze familienfreundlicher gestalten, bzw. auf meine Bedürfnisse zuschneiden.
+
+
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
-## Get started
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
